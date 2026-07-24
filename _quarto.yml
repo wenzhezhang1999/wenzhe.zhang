@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "research/*.qmd"
+  resources:
+    - "files/**"
+    - "images/**"
+
+website:
+  title: "Wenzhe Zhang"
+  site-url: "https://wenzhezhang1999.github.io/wenzhe.zhang"
+  search: false
+  navbar:
+    pinned: true
+    left:
+      - href: index.qmd
+        text: About Me
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: awards-projects.qmd
+        text: Awards & Projects
+      - href: supervision.qmd
+        text: Supervision
+  page-footer:
+    left: "© 2026 Wenzhe Zhang"
+    right: "Built with Quarto"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    anchor-sections: false
+    smooth-scroll: true

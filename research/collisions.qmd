@@ -1,0 +1,276 @@
+---
+pagetitle: "Collision Research | Wenzhe Zhang"
+page-layout: full
+toc: false
+---
+
+```{=html}
+<main class="inner-page research-topic-page collision-page">
+  <a class="back-link" href="../research.html">← All research topics</a>
+
+  <header class="page-intro">
+    <p class="section-eyebrow"> </p>
+    <h1>Collisions</h1>
+    <p>
+      Collision mechanics, rapid safety assessment, time-dependent reliability,
+      and protective systems for bridges, ships, and offshore wind turbines.
+    </p>
+  </header>
+
+  <section class="heave-study collision-study" id="bridge-protection-review">
+    <header class="study-header">
+      <div class="study-index">Paper</div>
+      <div>
+        <p class="study-type">Systematic technology review</p>
+        <h2>Protective technologies for bridges</h2>
+        <p class="study-paper-title">
+          Review on the protective technologies of bridge against vessel collision
+        </p>
+        <p class="study-meta">
+          <em>Thin-Walled Structures</em> 201, 112013 (2024)
+          <span>Active avoidance</span><span>Passive protection</span><span>Technology comparison</span>
+          <a href="https://doi.org/10.1016/j.tws.2024.112013">DOI</a>
+        </p>
+      </div>
+    </header>
+
+    <div class="study-content">
+      <div class="study-narrative">
+        <div>
+          <h3>Research question</h3>
+          <p>How should available vessel-collision protection technologies be classified, compared, and selected for different bridge and navigation scenarios?</p>
+        </div>
+        <div>
+          <h3>Approach</h3>
+          <p>The review connects recent collision accidents with two protection pathways: active collision avoidance and passive anti-collision structures. Active systems are organised by input, analysis, and action, while passive structures are classified into six design families.</p>
+        </div>
+        <div>
+          <h3>What the study contributes</h3>
+          <ul>
+            <li>A unified map from accident causes to active and passive protection measures.</li>
+            <li>A comparison of operating principles, advantages, limitations, and suitable application conditions.</li>
+            <li>Transferable concepts from adjacent fields, including vessel-vessel avoidance and metamaterial structures.</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="study-visuals">
+        <div class="research-figure-placeholder figure-main">
+          <figure class="research-figure figure-main">
+           <img src="../images/research/collisions/Protection review.png">
+           <figcaption> Systematic technical review for protections.</figcaption>
+          </figure>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="heave-study collision-study" id="physics-informed-mlp">
+    <header class="study-header">
+      <div class="study-index">Paper</div>
+      <div>
+        <p class="study-type">Physics-informed machine learning</p>
+        <h2>Rapid ship-bridge collision safety assessment</h2>
+        <p class="study-paper-title">
+          Physics-informed multi-layer perceptron (MLP) model with data
+          augmentation for ship-bridge collision safety assessment
+        </p>
+        <p class="study-meta">
+          <em>Ocean Engineering</em> 362, 126339 (2026)
+          <span>MLP</span><span>Data augmentation</span><span>SHAP</span>
+          <a href="https://doi.org/10.1016/j.oceaneng.2026.126339">DOI</a>
+        </p>
+      </div>
+    </header>
+
+    <div class="study-content">
+      <div class="study-narrative">
+        <div>
+          <h3>Research question</h3>
+          <p>Can physical prior knowledge overcome a small real-world dataset and support rapid, interpretable screening of bridge anti-collision performance?</p>
+        </div>
+        <div>
+          <h3>Approach</h3>
+          <p>A dataset of 50 bridge assessment cases and nine ship, channel, and bridge features is expanded through two physics-informed strategies. MLP predictions are evaluated by repeated five-fold cross-validation, compared with SVM and random forest models, and interpreted using SHAP.</p>
+        </div>
+        <div>
+          <h3>What the study shows</h3>
+          <ul>
+            <li>Both augmentation strategies improve the baseline model, with different precision-recall trade-offs.</li>
+            <li>The transformation-augmented MLP achieves <strong>80% prediction accuracy</strong>.</li>
+            <li>Ship tonnage and navigable clearance width are the two most influential features.</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="study-visuals">
+        <div class="research-figure-placeholder figure-main">
+          <figure class="research-figure figure-main">
+           <img src="../images/research/collisions/MLP ship-bridge.png">
+           <figcaption> MLP data-driven model for fast ship-bridge collision safety assessment.</figcaption>
+          </figure>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <section class="heave-study collision-study" id="aged-bridge-reliability">
+    <header class="study-header">
+      <div class="study-index">Paper</div>
+      <div>
+        <p class="study-type">Time-dependent reliability</p>
+        <h2>Aged reinforced-concrete bridges under ship impact</h2>
+        <p class="study-paper-title">
+          Reliability assessment of aged reinforced concrete bridge under
+          ship impact considering multi-hazards
+        </p>
+        <p class="study-meta">
+          <em>Ocean Engineering</em> 326, 120772 (2025)
+          <span>OpenSees</span><span>Monte Carlo</span><span>Scour and corrosion</span>
+          <a href="https://doi.org/10.1016/j.oceaneng.2025.120772">DOI</a>
+        </p>
+      </div>
+    </header>
+
+    <div class="study-content">
+      <div class="study-narrative">
+        <div>
+          <h3>Research question</h3>
+          <p>How do scour, reinforcement corrosion, and uncertain vessel impacts change the collision reliability of a reinforced-concrete bridge throughout its service life?</p>
+        </div>
+        <div>
+          <h3>Approach</h3>
+          <p>An OpenSees finite-element model is coupled with vessel mass, velocity, and impact-angle distributions and Monte Carlo simulation. Time-dependent scour and material degradation are introduced to compare newly built and aged bridge states.</p>
+        </div>
+        <div class="result-callout">
+          <span>Time-dependent failure probability</span>
+          <div class="result-metrics">
+            <strong>9.86%<small>at completion</small></strong>
+            <strong>30.20%<small>after 20 years</small></strong>
+            <strong>50.95%<small>after 100 years</small></strong>
+          </div>
+          <p>Scour dominates the first two decades, while corrosion becomes increasingly important later; inspection around year 20 is therefore a key intervention point.</p>
+        </div>
+      </div>
+
+      <div class="study-visuals">
+        <div class="research-figure-placeholder figure-main">
+          <figure class="research-figure figure-main">
+           <img src="../images/research/collisions/Aged reliability.png">
+           <figcaption> Reliability for aged bridges under ship collision.</figcaption>
+          </figure>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <section class="heave-study collision-study" id="metamaterial-owt-fender">
+    <header class="study-header">
+      <div class="study-index">Paper</div>
+      <div>
+        <p class="study-type">Crashworthy protective systems</p>
+        <h2>Metamaterial fenders for monopile OWTs</h2>
+        <p class="study-paper-title">
+          Crashworthiness study of a monopile OWT with metamaterial-based
+          fenders under vessel collisions
+        </p>
+        <p class="study-meta">
+          <em>Engineering Structures</em> 345, 121559 (2025)
+          <span>Nonlinear FEA</span><span>22 MW OWT</span><span>Metamaterial fender</span>
+          <a href="https://doi.org/10.1016/j.engstruct.2025.121559">DOI</a>
+        </p>
+      </div>
+    </header>
+
+    <div class="study-content">
+      <div class="study-narrative">
+        <div>
+          <h3>Research question</h3>
+          <p>Can an annular metamaterial fender protect both a large monopile wind turbine and the striking vessel while maintaining acceptable nacelle acceleration?</p>
+        </div>
+        <div>
+          <h3>Approach</h3>
+          <p>Nonlinear finite-element simulations examine a 22 MW monopile OWT struck by a 5000 DWT vessel at 2-6 m/s. Baseline and dual aluminium-foam-ring fenders are assessed under multiple impact velocities, operational wind loads, and wind-impact angles.</p>
+        </div>
+        <div>
+          <h3>What the study shows</h3>
+          <ul>
+            <li>The enhanced fender reduces OWT damage to negligible levels while keeping nacelle acceleration within the <strong>6 m/s²</strong> safety threshold.</li>
+            <li>Vessel bow crushing depth is reduced by <strong>14.53%</strong>.</li>
+            <li>Wind direction changes both peak acceleration and structural damage and must be included in collision-risk assessment.</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="study-visuals">
+        <div class="research-figure-placeholder figure-main">
+          <figure class="research-figure figure-main">
+           <img src="../images/research/collisions/Meta fender.png">
+           <figcaption> The metamaterial fender for OWT.</figcaption>
+          </figure>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <section class="heave-study collision-study" id="bulbous-bow-crushing">
+    <header class="study-header">
+      <div class="study-index">Paper</div>
+      <div>
+        <p class="study-type">Experimental, numerical, and analytical mechanics</p>
+        <h2>Axial crushing force of bulbous bows</h2>
+        <p class="study-paper-title">
+          Study on the assessment of axial crushing force of bulbous bow
+          for bridge against ship collision
+        </p>
+        <p class="study-meta">
+          <em>Ocean Engineering</em> 255, 111411 (2022)
+          <span>Axial crushing tests</span><span>Finite elements</span><span>IUM</span>
+          <a href="https://doi.org/10.1016/j.oceaneng.2022.111411">DOI</a>
+        </p>
+      </div>
+    </header>
+
+    <div class="study-content">
+      <div class="study-narrative">
+        <div>
+          <h3>Research question</h3>
+          <p>Can bulbous-bow crushing force be estimated efficiently enough for bridge collision-risk analysis without constructing a detailed finite-element model for every passing vessel?</p>
+        </div>
+        <div>
+          <h3>Approach</h3>
+          <p>Two bow models with transverse plates and longitudinal stiffeners are tested under axial compression. Experiments and finite-element simulations validate an intersection unit method derived from rigid-plastic theory, with an equivalent-thickness correction for longitudinal stiffeners.</p>
+        </div>
+        <div>
+          <h3>What the study shows</h3>
+          <ul>
+            <li>Internal structural arrangement and collapse mode strongly affect crushing force, even for bows with the same mass and external shape.</li>
+            <li>The finite-element model reproduces reasonable collapse modes and mean crushing forces.</li>
+            <li>IUM is suitable for transverse-plate bows, while longitudinally stiffened bows require the equivalent-thickness modification.</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="study-visuals">
+        <div class="research-figure-placeholder figure-main">
+          <figure class="research-figure figure-main">
+           <img src="../images/research/collisions/bulbous bow.png">
+           <figcaption> The quasi-static test for bulbous bow.</figcaption>
+          </figure>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!--
+  One figure is reserved for each paper. Replace a .research-figure-placeholder
+  with <figure class="research-figure"><img ...><figcaption>...</figcaption></figure>.
+  Store the images under images/research/collisions/ and reference them as
+  ../images/research/collisions/filename.png.
+  -->
+</main>
+```

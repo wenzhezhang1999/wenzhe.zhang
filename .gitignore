@@ -1,0 +1,9 @@
+/.quarto/
+/_site/
+/.codex-tmp/
+/.localappdata/
+/.agents/
+/tmp/
+*.log
+
+**/*.quarto_ipynb

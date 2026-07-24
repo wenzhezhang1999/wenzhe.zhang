@@ -1,0 +1,71 @@
+---
+pagetitle: "Supervision | Wenzhe Zhang"
+description: "Student supervision records and acknowledgements."
+page-layout: full
+toc: false
+---
+
+```{=html}
+<main class="inner-page">
+  <header class="page-intro">
+    <p class="section-eyebrow">Teaching and Mentoring</p>
+    <h1>Supervision</h1>
+    <p>
+      Student supervision activities and acknowledgements related to thesis,
+      research, and project mentoring.
+    </p>
+  </header>
+
+  <section class="inner-section" id="students">
+    <div class="section-heading">
+      <div>
+        <p class="section-eyebrow">Student Records</p>
+        <h2>Supervised Students</h2>
+      </div>
+      <span class="section-index">01</span>
+    </div>
+
+    <div class="supervision-list">
+      <div class="supervision-empty">
+        Individual student records will be added here.
+      </div>
+    </div>
+
+    <!--
+    Copy this block inside .supervision-list for each student:
+    <article class="supervision-record">
+      <div class="supervision-period">2025 - 2026</div>
+      <div>
+        <h3>Student Name</h3>
+        <p class="supervision-meta">University · Master's student</p>
+        <p><strong>Thesis:</strong> Thesis or research topic title</p>
+      </div>
+    </article>
+    -->
+  </section>
+
+  <section class="inner-section" id="acknowledgements">
+    <div class="section-heading">
+      <div>
+        <p class="section-eyebrow">Student Voices</p>
+        <h2>Acknowledgements</h2>
+      </div>
+      <span class="section-index">02</span>
+    </div>
+
+    <div class="acknowledgement-grid">
+      <div class="supervision-empty">
+        Student acknowledgements will be added here with permission.
+      </div>
+    </div>
+
+    <!--
+    Copy this block inside .acknowledgement-grid for each acknowledgement:
+    <figure class="acknowledgement-card">
+      <blockquote>Student acknowledgement text.</blockquote>
+      <figcaption>Student Name · Programme · Year</figcaption>
+    </figure>
+    -->
+  </section>
+</main>
+```

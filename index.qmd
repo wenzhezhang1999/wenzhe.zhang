@@ -1,0 +1,283 @@
+---
+pagetitle: "Wenzhe Zhang | Academic Homepage"
+description: "Academic profile of Wenzhe Zhang, Ph.D. Candidate in naval architecture and ocean engineering."
+page-layout: custom
+toc: false
+---
+
+```{=html}
+<div class="academic-shell">
+
+<div class="profile-sidebar" role="complementary" aria-label="Profile">
+
+  <img class="profile-photo"
+       src="images/profile.jpg"
+       alt="Portrait of Wenzhe Zhang">
+
+  <h1 class="profile-name">Wenzhe Zhang <br>（张文哲）</h1>
+  <p class="profile-affiliation">Ph.D. Candidate</p>
+  <p class="profile-focus">
+    Naval Architecture and Ocean Engineering<br>
+    Universidad Polit&eacute;cnica de Madrid
+  </p>
+
+  <dl class="profile-facts">
+    <div>
+      <dt>Location</dt>
+      <dd>Madrid, Spain</dd>
+    </div>
+    <div>
+      <dt>Email</dt>
+      <dd><a href="mailto:wenzhe.z@upm.es">wenzhe.z@upm.es</a></dd>
+    </div>
+  </dl>
+
+  <nav class="profile-links" aria-label="Academic profiles">
+    <a href="https://scholar.google.com/citations?user=jU-Vs-wAAAAJ" target="_blank" rel="noopener">
+      <span class="link-mark">
+        <img src="images/icons/google-scholar.svg" alt="" aria-hidden="true">
+      </span>
+      Google Scholar
+    </a>
+    <a href="https://www.researchgate.net/profile/Wenzhe-Zhang-16" target="_blank" rel="noopener">
+      <span class="link-mark">
+        <img src="images/icons/researchgate.svg" alt="" aria-hidden="true">
+      </span>
+      ResearchGate
+    </a>
+    <a href="https://www.linkedin.com/in/wenzhe-zhang-293a08292/" target="_blank" rel="noopener">
+      <span class="link-mark">
+        <img src="images/icons/linkedin.svg" alt="" aria-hidden="true">
+      </span>
+      LinkedIn
+    </a>
+    <a href="files/CV_Wenzhe_Zhang.pdf" target="_blank">
+      <span class="link-mark">
+        <i class="bi bi-file-earmark-pdf" aria-hidden="true"></i>
+      </span>
+      Download CV
+    </a>
+  </nav>
+</div>
+
+<main class="academic-content">
+
+<section id="about" class="academic-section about-section">
+  <h2>About Me</h2>
+  <p class="about-lead">
+    I am a Ph.D. Candidate in Naval Architecture and Ocean Engineering at
+    Universidad Polit&eacute;cnica de Madrid (UPM), Spain.
+  </p>
+  <p>
+    I was born in 1999 in a small town in Anhui Province, China. I received my
+    bachelor’s and master’s degrees from Wuhan University of Technology (WHUT)
+    in 2020 and 2023, respectively. Since September 2023, I have been pursuing
+    a PhD at the Universidad Politécnica de Madrid (UPM), supported by an FPI
+    fellowship from the Spanish Government.
+  </p>
+  <p>
+    Before beginning my PhD, my research focused on ship–bridge collisions,
+    risk and reliability analysis, and protective fender design. I continue to
+    collaborate with colleagues in these areas, particularly on transferring
+    collision-safety knowledge to offshore structures. I graduated with
+    distinction from WHUT at both the undergraduate and master’s levels. During
+    my studies, I received several scholarships and honours for academic
+    achievement, student leadership, and community engagement. My master’s
+    thesis was also recognised as an Outstanding Thesis in Hydraulic
+    Engineering among China’s higher education institutions.
+  </p>
+  <p>
+    My doctoral research focuses on the hydrodynamics of heave plates for
+    floating offshore platforms. I combine physical experiments with
+    high-fidelity CFD simulations, using experimental measurements to calibrate
+    and validate numerical models. Through this work, I developed an
+    OpenFOAM-based forced-oscillation testing framework that achieved accuracy
+    among the highest reported to date. I have investigated the hydrodynamic
+    performance of single, double, and perforated heave plates, providing
+    practical guidance for engineering applications. Building on my background
+    in structural mechanics, I have also conducted full-scale fluid–structure
+    interaction analyses to examine failure modes and optimise stiffener
+    configurations.
+  </p>
+  <p>
+    As my doctoral research enters its final stage, my interests are expanding
+    towards floating platforms for offshore renewable energy. Current topics
+    include floating photovoltaic systems, the co-location of different
+    renewable-energy technologies, shared mooring systems, and offshore
+    structural safety. I welcome opportunities to exchange ideas and develop
+    collaborations in these areas.
+    <strong>I am also interested in suitable postdoctoral opportunities and
+    expect to defend my PhD thesis around July 2027.</strong>
+  </p>
+  <p>
+    Outside academia, I am an amateur photographer with a passion for natural
+    landscapes. Badminton is my favourite sport, and I also enjoy watching
+    football, especially when Spain is playing. ¡Vamos, España!
+  </p>
+
+  <div class="interest-row" aria-label="Research interests">
+    <span>Floating Marine Structures</span>
+    <span>Offshore Renewable Energy</span>
+    <span>Hydrodynamics</span>
+    <span>Collision and Safety</span>
+  </div>
+</section>
+
+<section id="education" class="academic-section">
+  <div class="section-heading">
+    <div>
+      <h2>Education</h2>
+    </div>
+  </div>
+
+  <div class="record-list">
+    <article class="academic-record">
+      <div class="record-date">2023.09 - Present</div>
+      <div class="record-body">
+        <h3>Ph.D. in Naval Architecture and Ocean Engineering</h3>
+        <p class="record-place">Universidad Polit&eacute;cnica de Madrid <span>Madrid, Spain</span></p>
+        <p class="record-supervisors">
+          <span class="record-label">Supervisors</span>
+          <a class="supervisor-link" href="https://scholar.google.com/citations?user=zWUbIyYAAAAJ" target="_blank" rel="noopener">
+            Associate Prof. Javier Calderon-Sanchez
+            <img class="inline-scholar-icon" src="images/icons/google-scholar.svg" alt="" aria-hidden="true">
+          </a>
+          <span class="name-separator">and</span>
+          <a class="supervisor-link" href="https://scholar.google.com/citations?user=9iAn-vIAAAAJ" target="_blank" rel="noopener">
+            Prof. Zhiyu Jiang
+            <img class="inline-scholar-icon" src="images/icons/google-scholar.svg" alt="" aria-hidden="true">
+          </a>
+        </p>
+        <p class="record-topic">
+          <span class="record-label">Research topics</span>
+          Heave plates, Hydrodynamics for floating platforms.
+        </p>
+      </div>
+      <img class="org-logo" src="images/logos/upm.svg" alt="Universidad Politécnica de Madrid logo">
+    </article>
+
+    <article class="academic-record">
+      <div class="record-date">2026.08 - 2026.11</div>
+      <div class="record-body">
+        <h3>Visiting Ph.D.</h3>
+        <p class="record-place">Shanghai Jiao Tong University <span>Shanghai, China</span></p>
+        <p class="record-supervisors">
+          <span class="record-label">Supervisor</span>
+          <a class="supervisor-link" href="https://scholar.google.com/citations?user=l5I1Ul8AAAAJ" target="_blank" rel="noopener">
+            Prof. Zhen Gao
+            <img class="inline-scholar-icon" src="images/icons/google-scholar.svg" alt="" aria-hidden="true">
+          </a>
+        </p>
+        <p class="record-topic">
+          <span class="record-label">Research topics</span>
+          Shared mooring systems.
+        </p>
+      </div>
+      <img class="org-logo" src="images/logos/sjtu.png" alt="Shanghai Jiao Tong University logo">
+    </article>
+
+    <article class="academic-record">
+      <div class="record-date">2025.05 - 2025.08</div>
+      <div class="record-body">
+        <h3>Visiting Ph.D.</h3>
+        <p class="record-place">University of Agder <span>Grimstad, Norway</span></p>
+        <p class="record-supervisors">
+          <span class="record-label">Supervisor</span>
+          <a class="supervisor-link" href="https://scholar.google.com/citations?user=9iAn-vIAAAAJ" target="_blank" rel="noopener">
+            Prof. Zhiyu Jiang
+            <img class="inline-scholar-icon" src="images/icons/google-scholar.svg" alt="" aria-hidden="true">
+          </a>
+        </p>
+        <p class="record-topic">
+          <span class="record-label">Research topics</span>
+          Floating PV, Anti-collision protection for offshore wind turbines.
+        </p>
+      </div>
+      <img class="org-logo org-logo--wide" src="images/logos/uia.svg" alt="University of Agder logo">
+    </article>
+
+    <article class="academic-record">
+      <div class="record-date">2020.09 - 2023.06</div>
+      <div class="record-body">
+        <h3>Master of Engineering in Hydraulic Engineering</h3>
+        <p class="record-place">Wuhan University of Technology <span>Wuhan, China</span></p>
+        <p class="record-supervisors">
+          <span class="record-label">Supervisors</span>
+          Prof. Jin Pan <span class="name-separator">and</span> Prof. Xiaobin Li
+        </p>
+        <p class="record-topic">
+          <span class="record-label">Research topics</span>
+          Ship–bridge collision, Anti-collision structures.
+        </p>
+      </div>
+      <img class="org-logo" src="images/logos/whut.png" alt="Wuhan University of Technology logo">
+    </article>
+
+    <article class="academic-record">
+      <div class="record-date">2016.09 - 2020.07</div>
+      <div class="record-body">
+        <h3>Bachelor of Engineering</h3>
+        <p class="record-place">Wuhan University of Technology <span>Wuhan, China</span></p>
+        <p class="record-detail">Harbor, Waterway, and Coastal Engineering</p>
+      </div>
+      <img class="org-logo" src="images/logos/whut.png" alt="Wuhan University of Technology logo">
+    </article>
+  </div>
+</section>
+
+<section id="work-experience" class="academic-section">
+  <div class="section-heading">
+    <div>
+      <h2>Professional Experience</h2>
+    </div>
+  </div>
+
+  <div class="record-list">
+    <article class="academic-record">
+      <div class="record-date">2024.09 - Present</div>
+      <div class="record-body">
+        <h3>Teaching Assistant (80h/year)</h3>
+        <p class="record-place">Universidad Polit&eacute;cnica de Madrid <span>Madrid, Spain</span></p>
+      </div>
+      <img class="org-logo" src="images/logos/upm.svg" alt="Universidad Politécnica de Madrid logo">
+    </article>
+  </div>
+</section>
+
+<section id="academic-service" class="academic-section">
+  <div class="section-heading">
+    <div>
+      <h2>Academic Service</h2>
+    </div>
+  </div>
+
+  <div class="service-list">
+    <article class="service-record">
+      <div class="record-date">2024 - Present</div>
+      <div class="record-body">
+        <h3>Journal Peer Reviewer</h3>
+        <p>
+          More than 40 peer reviews for journals in ocean engineering and offshore
+          renewable energy, including 
+          Applied Energy, Ocean Engineering, Energy Conversion and Management, Marine Structures,
+          Applied Ocean Research, Ships and Offshore Structures, Engineering Applications of Computational Fluid Mechanics, Brodogradnja, International Journal of Energy Research, China Ocean Engineering
+        </p>
+      </div>
+    </article>
+    <article class="service-record">
+      <div class="record-date">2025 - 2027</div>
+      <div class="record-body">
+        <h3>Postgraduate Education</h3>
+        <p>
+          Master’s thesis reviewer, supervisor, committee member, and lecturer
+          for EMSHIP and the Master’s Degree on Marine Renewable Energies
+          Harnessing (MAERM).
+        </p>
+      </div>
+    </article>
+  </div>
+</section>
+
+</main>
+</div>
+```

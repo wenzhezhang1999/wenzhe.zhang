@@ -1,0 +1,54 @@
+---
+pagetitle: "Research | Wenzhe Zhang"
+description: "Research topics in floating offshore structures, renewable energy, hydrodynamics, and structural safety."
+page-layout: full
+toc: false
+---
+
+```{=html}
+<main class="inner-page">
+
+  <section class="topic-grid" aria-label="Research topics">
+
+    <a class="topic-card" href="research/heave-plates.html">
+      <div>
+      <h2>Heave Plates</h2>
+      <p class="topic-label">Hydrodynamics · Experiments · CFD</p>
+      <p>
+        Experimental and CFD investigations of single, double, and perforated
+        heave plates. Full-scale fluid–structure interaction analyses support
+        structural assessment and practical reinforcement design.
+      </p>
+        <span class="topic-link">View topic <span aria-hidden="true">→</span></span>
+      </div>
+    </a>
+
+    <a class="topic-card" href="research/shared-mooring.html">
+      <div>
+      <h2>Shared Mooring</h2>
+      <p class="topic-label">FOWT · FPV · OpenFOAM · MoorDyn</p>
+      <p>
+        Coupled OpenFOAM–MoorDyn simulations for floating renewable-energy
+        systems. Current research explores floating photovoltaics, energy
+        co-location, and shared-mooring concepts.
+      </p>
+        <span class="topic-link">View topic <span aria-hidden="true">→</span></span>
+      </div>
+    </a>
+
+    <a class="topic-card" href="research/collisions.html">
+      <div>
+      <h2>Ship-Offshore Structures Collision</h2>
+      <p class="topic-label">Collision · Data-driven · Protective fender</p>
+      <p>
+        Numerical analysis of ship collisions involving bridges and offshore
+        wind turbines, together with protective-system design. Ongoing research
+        explores data-driven methods for rapid damage assessment.
+      </p>
+        <span class="topic-link">View topic <span aria-hidden="true">→</span></span>
+      </div>
+    </a>
+
+  </section>
+</main>
+```
