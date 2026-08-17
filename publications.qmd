@@ -13,7 +13,7 @@ toc-title: "On this page"
 
 **13** published SCI journal articles, **8** of them as First/Corresponding Author (\*), **1** Highly Cited Paper
 <br>
-Google Scholar Citation: **303**; h-index=**8**; i10-index=**6** (2026.08)
+Google Scholar Citation: **304**; h-index=**8**; i10-index=**6** (2026.08)
 
 ## Journal articles
 
@@ -23,12 +23,16 @@ Google Scholar Citation: **303**; h-index=**8**; i10-index=**6** (2026.08)
     <figcaption>Ocean Engineering</figcaption>
   </figure>
   <figure class="journal-cover">
-    <img src="images/journals/applied-ocean-research-cover.jpg" >
-    <figcaption>Applied Ocean Research</figcaption>
-  </figure>
-  <figure class="journal-cover">
     <img src="images/journals/engineering-structures-cover.jpg" >
     <figcaption>Engineering Structures</figcaption>
+  </figure>
+  <figure class="journal-cover">
+    <img src="images/journals/marine-structures-cover.jpg" >
+    <figcaption>Marine Structures</figcaption>
+  </figure>
+  <figure class="journal-cover">
+    <img src="images/journals/applied-ocean-research-cover.jpg" >
+    <figcaption>Applied Ocean Research</figcaption>
   </figure>
   <figure class="journal-cover">
     <img src="images/journals/thin-walled-structures-cover.jpg" >
