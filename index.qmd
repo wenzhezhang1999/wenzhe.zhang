@@ -257,7 +257,7 @@ toc: false
       <div class="record-body">
         <h3>Journal Peer Reviewer</h3>
         <p>
-          More than **50** peer reviews for journals in ocean engineering and offshore
+          More than 50 peer reviews for journals in ocean engineering and offshore
           renewable energy, including 
           Applied Energy, Ocean Engineering, Energy Conversion and Management, Marine Structures,
           Applied Ocean Research, Ships and Offshore Structures, Engineering Applications of Computational Fluid Mechanics, Brodogradnja, International Journal of Energy Research, China Ocean Engineering
