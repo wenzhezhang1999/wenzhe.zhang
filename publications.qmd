@@ -40,6 +40,13 @@ Google Scholar Citation: **327**; h-index=**8**; i10-index=**6** (2026.09)
   </figure>
 </div>
 
+### Under Review
+
+-- Coupled hydro-structural analysis of reinforced heave plates under forced oscillations
+-- Directional stress-wave transmission and impact-load redistribution in a bi-axial symmetrical flower-core structure
+-- Hydrodynamic characteristics of double heave plates: A combined experimental and numerical investigation
+
+
 ### 2026
 
 13\. H. Peng, X. Li, **W. Z. Zhang\***, J. Pan, and P. Hu. "Physics-informed
