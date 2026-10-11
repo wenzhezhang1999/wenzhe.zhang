@@ -11,9 +11,9 @@ toc-title: "On this page"
 
 ## Research profile
 
-**13** published SCI journal articles, **8** of them as First/Corresponding Author (\*), **1** Highly Cited Paper
+**14** published SCI journal articles, **8** of them as First/Corresponding Author (\*), **1** Highly Cited Paper
 <br>
-Google Scholar Citation: **345**; h-index=**9**; i10-index=**6** (2026.10)
+Google Scholar Citation: **346**; h-index=**9**; i10-index=**6** (2026.10)
 
 ## Journal articles
 
@@ -44,12 +44,12 @@ Google Scholar Citation: **345**; h-index=**9**; i10-index=**6** (2026.10)
 
 -- Coupled hydro-structural analysis of reinforced heave plates under forced oscillations
 
--- Directional stress-wave transmission and impact-load redistribution in a bi-axial symmetrical flower-core structure
-
 -- Hydrodynamic characteristics of double heave plates: A combined experimental and numerical investigation
 
 
 ### 2026
+
+14\. C. Wang, J. Pan, **W. Zhang\***, T. Wang, and M. C. Xu, “Directional stress-wave transmission and impact-load redistribution in a bi-axial symmetrical flower-core structure,” *Thin-Walled Structures*, p. 115 807, (2026). [DOI](https://doi.org/10.1016/j.tws.2026.115807)
 
 13\. H. Peng, X. Li, **W. Z. Zhang\***, J. Pan, and P. Hu. "Physics-informed
    multi-layer perceptron (MLP) model with data augmentation for ship-bridge
