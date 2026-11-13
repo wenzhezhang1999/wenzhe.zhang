@@ -81,8 +81,9 @@ toc: false
           experimental and numerical investigation
         </p>
         <p class="study-meta">
-          Research manuscript
-          <span>Forced oscillation</span><span>PIV</span><span>OpenFOAM</span><span>STAR-CCM+</span>
+          <em>Marine Structures</em> 112 (2027)
+          <span>Forced oscillation</span><span>PIV</span><span>OpenFOAM</span>
+          <a href="10.1016/j.marstruc.2026.104274">DOI</a>
         </p>
       </div>
     </header>
